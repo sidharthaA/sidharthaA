@@ -45,5 +45,6 @@ jobs:
           git config user.name sidharthaA
           git config user.email github-actions@github.com
           git add -A .
-          git commit -m "Personal 3d Contributions images updated"
-          git push
+          if git commit -m "generated"; then
+            git push
+          fi
