@@ -1,13 +1,10 @@
 <!-- Intro -->
 
-<h3 align="center">
-	Hello and welcome :smile:
-</h3>
-  
-<p>
-<div align="center">
-	<br> I'm a tech chameleon on a quest for a Master's in Computer Science at RIT, with a fiery passion for gobbling up new skills and tech goodies in the realms of Data Engineering, Software Sorcery, and Machine Learning wizardry 🚀🧙‍♂️
-</div>
+<h1 align="center">
+	Hello 👋 and welcome :smile:
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=485&lines=Just+a+novice,+still+got+a+lot+to+learn!;Passionate+about...;Data+Engineering,;Software+Development,;and+Machine+Learning" alt="Just a novice. Still got a lot to learn." />
 </p>
 
 <!-- Socials --> 
@@ -34,42 +31,18 @@
 
 </div>
 
-<!-- Tech Stack
-
-<h3 align="Center">Tech Stack:</h3>  -->  
-<!-- <p align="center">
-<a href="https://www.python.org/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/1508/PNG/512/python_104451.png" alt="python"  style="height: 3rem"/> </a>
-<a href="https://tr.wikipedia.org/wiki/SQL" target="_blank"> <img src="https://img.icons8.com/external-bearicons-blue-bearicons/512/external-SQL-file-extension-bearicons-blue-bearicons.png" alt="sql"  style="height: 3rem"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://img.icons8.com/color/512/amazon-web-services.png" alt="aws"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.sophos.com/sites/default/files/2022-02/googlecloud.png" alt="metabase"  style="height: 3rem"/> </a>-->
-<!-- <a href="https://spark.apache.org/" target="_blank"> <img src="https://ignos.blog/wp-content/uploads/2022/06/apachesparklogo-e1655475818894.png" alt="spark"  style="height: 3rem"/> </a>  -->
-<!-- <a href="https://www.snowflake.com/en/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/snowflake_logo_icon_167979.png" alt="snowflake"  style="height: 3rem"/> </a>-->
-<!-- <a href="https://kafka.apache.org/" target="_blank"> <img src="https://icons-for-free.com/iconfiles/png/512/apache+kafka-1331550886393441357.png" alt="kafka"  style="height: 3rem"/> </a> 
-<a href="https://airflow.apache.org/" target="_blank"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow"  style="height: 3rem"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://img.icons8.com/color/512/docker.png" alt="docker"  style="height: 3rem"/> </a>
-<a href="https://www.postgresql.org/" target="_blank"> <img src="https://img.icons8.com/color/512/postgreesql.png" alt="postgresql"  style="height: 3rem"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/color/512/mysql-logo.png" alt="mysql"  style="height: 3rem"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank"> <img src="https://img.icons8.com/color/512/hadoop-distributed-file-system.png" alt="hadoop"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://www.getdbt.com/" target="_blank"> <img src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" alt="dbt"  style="height: 3rem"/> </a>-->
-<!-- <a href="https://cassandra.apache.org/_/index.html" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Cassandra_logo.svg" alt="cassandra"  style="height: 3rem"/> </a>-->
-<!-- <a href="https://www.elastic.co/" target="_blank"> <img src="https://img.icons8.com/color/512/elasticsearch.png" alt="elasticsearch"  style="height: 3rem"/> </a>  -->
-<!-- <a href="https://lookerstudio.google.com/" target="_blank"> <img src="https://www.svgrepo.com/show/354012/looker-icon.svg" alt="looker"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://www.metabase.com/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/metabase_logo_icon_170959.png" alt="metabase"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://www.opc-router.de/wp-content/uploads/2021/03/mongodb_thumbnail.png" alt="mongodb"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://www.terraform.io/" target="_blank"> <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.23/1692742494795/Microsoft.VisualStudio.Services.Icons.Default" alt="terraform"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://flink.apache.org/" target="_blank"> <img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-flink-logo.png" alt="flink"  style="height: 3rem"/> </a> -->
-<!-- <a href="https://www.jenkins.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"  style="height: 3rem"/> </a>
-<a href="https://kubernetes.io/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/labs/b/ba/Kubernetes-icon-color.svg" alt="kubernetes"  style="height: 3rem"/> </a>
-</p> -->
 <br>
 <h4 align="center">
 	Head <a href="https://github.com/sidharthaA/sidharthaA/discussions/1">over here</a> to engage, share, ask questions and collaborate together!
 </h4>
 <hr>
 
-<br>
+<!-- GitHub Stats -->
 <p align="center">
-	<img width="500em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Github+Stats">
+</p>
+<p align="center">
+	<img width="300em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)">
 </p>
 <br>
 <p align="center">
@@ -77,8 +50,10 @@
 	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaA&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
-# Languages
-
+<!-- Language metrics -->
+<p align="center">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Language+Metrics">
+</p>
 <h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/sidharthaA#Tech%20Skills">
@@ -91,7 +66,10 @@
 	<img width="338em" src="https://api.githubtrends.io/user/svg/sidharthaA/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 
-# Contributions
+<!-- Contributions -->
+<p align="center">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Contributions">
+</p>
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
@@ -99,7 +77,10 @@
 	</a>
 </p>
 
-# Projects
+<!-- Projects -->
+<p align="center">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Projects">
+</p>
 
 ## Full-stack
 <p align="center">
@@ -176,7 +157,10 @@
 	</a>
 </p>
 
-# Technologies
+<!-- Technologies -->
+<p align="center">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Technologies">
+</p>
 
 ### Programming Languages
 
@@ -268,7 +252,7 @@
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-# Metrics
+<!--# Metrics
 <p align="center">
 	<img width="425em" src="https://github.com/sidharthaA/sidharthaA/blob/main/github-metrics.svg" />
-</p>
+</p> -->
