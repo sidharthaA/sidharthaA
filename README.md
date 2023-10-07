@@ -8,32 +8,24 @@
 </p>
 
 <!-- Socials --> 
-<br>
-<h3 align="center">
-	Connect with me:
-</h3>  
 <div align="center">
-<a href="https://www.linkedin.com/in/amperayani/" target="blank">
+<a href="https://www.linkedin.com/in/amperayani/" target="blank" title="LinkedIn">
 <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
 </a>
-
-<a href="https://amperayani.medium.com/" target="blank">
-<img src="https://cdn4.iconfinder.com/data/icons/social-media-circle-7/512/Medium_circle-512.png" style="height: 3rem; background-color:white"/>
+<a href="https://amperayani.medium.com/" target="blank" title="Medium">
+<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" style="height: 3rem; background-color:black"/>
 </a>
-
-<a href="mailto:ga5310@g.rit.edu" target="blank">
+<a href="mailto:ga5310@g.rit.edu" target="blank" title="GMail">
 <img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
 </a>
-
-<a href="https://sidharthaa.github.io/Amperayani_Portfolio/" target="blank">
-<img src="" style="height: 3rem"/>
+<a href="https://sidharthaa.github.io/Amperayani_Portfolio/" target="blank" title="Portfolio">
+<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" style="height: 3rem"/>
 </a>
 
 </div>
 
-<br>
 <h4 align="center">
-	Head <a href="https://github.com/sidharthaA/sidharthaA/discussions/1">over here</a> to engage, share, ask questions and collaborate together!
+	Head <a href="https://github.com/sidharthaA/sidharthaA/discussions/1">over here</a> to engage, share, and collaborate together!
 </h4>
 <hr>
 
