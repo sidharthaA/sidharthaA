@@ -306,5 +306,5 @@
 
 # Metrics
 <p align="center">
-	<img width="525em" src="https://github.com/sidharthaA/sidharthaA/blob/main/github-metrics.svg" />
+	<img width="425em" src="https://github.com/sidharthaA/sidharthaA/blob/main/github-metrics.svg" />
 </p>
