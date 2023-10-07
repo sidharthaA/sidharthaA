@@ -153,7 +153,7 @@
 ![KERAS](https://img.shields.io/badge/keras-12100E?style=for-the-badge&logo=keras&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/pytorch-FF5722?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### IDE:
+### IDE
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 ![eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![intellij](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
