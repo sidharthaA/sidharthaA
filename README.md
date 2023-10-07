@@ -113,16 +113,11 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/sidharthaA/e-commerce-store">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=e-commerce-store&hide_border=true&theme=dark">
+	<a href="https://github.com/sidharthaA/Working-with-SOAP-and-RESTful">
+		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Working-with-SOAP-and-RESTful&hide_border=true&theme=dark">
 	</a>
 	<a href="https://github.com/sidharthaA/Web-APIs-Query-System">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Web-APIs-Query-System&hide_border=true&theme=dark">
-	</a>
-
-<p align="center">
-	<a href="https://github.com/sidharthaA/Working-with-SOAP-and-RESTful">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Working-with-SOAP-and-RESTful&hide_border=true&theme=dark">
 	</a>
 </p>
 
@@ -146,17 +141,11 @@
 </p>
 
 <p align="center">
-	<a href="https://github.com/sidharthaA/IMDBToSQL">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=IMDBToSQL&hide_border=true&theme=dark">
+	<a href="https://github.com/sidharthaA/Topic-modelling-for-articles">
+		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Topic-modelling-for-articles&hide_border=true&theme=dark">
 	</a>
 	<a href="https://github.com/sidharthaA/Non-Relational-Database-Implemetation">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Non-Relational-Database-Implemetation&hide_border=true&theme=dark">
-	</a>
-</p>
-
-<p align="center">
-	<a href="https://github.com/sidharthaA/Topic-modelling-for-articles">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Topic-modelling-for-articles&hide_border=true&theme=dark">
 	</a>
 </p>
 
@@ -185,13 +174,6 @@
 	</a>
 	<a href="https://github.com/sidharthaA/Playing-with-statististics">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Playing-with-statististics&hide_border=true&theme=dark">
-	</a>
-</p>
-
-
-<p align="center">
-	<a href="https://github.com/sidharthaA/language-processing">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=language-processing&hide_border=true&theme=dark">
 	</a>
 </p>
 
