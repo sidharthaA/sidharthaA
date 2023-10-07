@@ -27,7 +27,6 @@
 <h4 align="center">
 	Head <a href="https://github.com/sidharthaA/sidharthaA/discussions/1">over here</a> to engage, share, and collaborate together!
 </h4>
-<hr>
 
 <!-- GitHub Stats -->
 <p align="center">
@@ -36,26 +35,25 @@
 <p align="center">
 	<img width="300em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)">
 </p>
-<br>
 <p align="center">
 	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
 	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaA&include_all_commits=true&hide_border=true&theme=dark"/>
 </p>
 
-<!-- Language metrics -->
+<!-- Language metrics 
 <p align="center">
 	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Language+Metrics">
-</p>
-<h4 align="center">Most used languages (by number of commits)</h4>
+</p> -->
+
+<!-- <h4 align="center">Most used languages (by number of commits)</h4>
 <p align="center">
 	<a href="https://profile.codersrank.io/user/sidharthaA#Tech%20Skills">
-		<img width="600em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidharthaA&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,batchfileGo,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&theme=dark">
+		<img width="400em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidharthaA&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,batchfileGo,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&theme=dark">
 	</a>
-</p>
-<br>
+</p> -->
 <p align="center">
-	<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=dark&hide=">
-	<img width="338em" src="https://api.githubtrends.io/user/svg/sidharthaA/langs?time_range=one_year&loc_metric=changed&theme=dark">
+	<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=dark&hide=">
+	<img width="225em" src="https://api.githubtrends.io/user/svg/sidharthaA/langs?time_range=one_year&loc_metric=changed&theme=dark">
 </p>
 
 <!-- Contributions -->
@@ -65,7 +63,7 @@
 <h4 align="center">Isometric view of contributions in the last year. Languages pie is based on recent commits</h4>
 <p align="center">
 	<a href="./profile-3d-contrib/profile-night-green.svg">
-		<img width="900em" src="./profile-3d-contrib/profile-night-green.svg">
+		<img width="550em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
 </p>
 
@@ -112,15 +110,6 @@
 	</a>
 </p>
 
-<p align="center">
-	<a href="https://github.com/sidharthaA/Topic-modelling-for-articles">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Topic-modelling-for-articles&hide_border=true&theme=dark">
-	</a>
-	<a href="https://github.com/sidharthaA/Non-Relational-Database-Implemetation">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Non-Relational-Database-Implemetation&hide_border=true&theme=dark">
-	</a>
-</p>
-
 ## Machine Learning
 <p align="center">
 	<a href="https://github.com/sidharthaA/Drug-Designing-using-AI">
@@ -135,17 +124,8 @@
 	<a href="https://github.com/sidharthaA/Year-round-Orienteering">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Year-round-Orienteering&hide_border=true&theme=dark">
 	</a>
-	<a href="https://github.com/sidharthaA/Playing-with-pandas">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Playing-with-pandas&hide_border=true&theme=dark">
-	</a>
-</p>
-
-<p align="center">
 	<a href="https://github.com/sidharthaA/Image-processing">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Image-processing&hide_border=true&theme=dark">
-	</a>
-	<a href="https://github.com/sidharthaA/Playing-with-statististics">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Playing-with-statististics&hide_border=true&theme=dark">
 	</a>
 </p>
 
@@ -182,11 +162,6 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Hosting/SaaS
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![databriks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-
 ### Frameworks and Libraries
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
@@ -197,8 +172,6 @@
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-
-### ML/DL Libraries
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![matplotlib](https://badgen.net/badge/matplotlib/MATPLOTLIB?label=&color=black&labelColor=black&icon=https://upload.wikimedia.org/wikipedia/commons/0/01/Created_with_Matplotlib-logo.svg)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -208,11 +181,6 @@
 ![TENSORFLOW](https://img.shields.io/badge/tensorflow-00A8E1?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![KERAS](https://img.shields.io/badge/keras-12100E?style=for-the-badge&logo=keras&logoColor=white)
 ![PYTORCH](https://img.shields.io/badge/pytorch-FF5722?style=for-the-badge&logo=pytorch&logoColor=white)
-
-### ORM
-![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg)
-![MONGOOSE](https://img.shields.io/badge/mongoose-298D46?style=for-the-badge&logo=mongoose&logoColor=white)
-![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 
 ### IDE:
 ![colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -225,24 +193,25 @@
 ![vs code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Version Control
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-
-### CI/CD
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![GitLab CI](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-
 ### Other
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![databriks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![SQL Alchemy](https://badgen.net/badge/SQLAlchemy/SQLALCHEMY?label=&color=black&labelColor=black&icon=https://user-images.githubusercontent.com/128223/153606192-c117618d-cabf-49c4-9204-d7f1afe24289.svg)
+![MONGOOSE](https://img.shields.io/badge/mongoose-298D46?style=for-the-badge&logo=mongoose&logoColor=white)
+![sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Nodemon](https://img.shields.io/badge/Nodemon-76D04B?style=for-the-badge&logo=nodemon&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <!--# Metrics
 <p align="center">
