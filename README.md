@@ -105,10 +105,10 @@
 ## Full-stack
 <p align="center">
 	<a href="https://github.com/sidharthaA/Social-Network-Application-using-MERN">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Social-Network-Application-using-MERN&hide_border=true&theme=dark">
+		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Social-Network-Application-using-MERN&hide_border=true&theme=dark">
 	</a>
 	<a href="https://github.com/sidharthaA/Amperayani_Portfolio">
-		<img width="450em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Amperayani_Portfolio&hide_border=true&theme=dark">
+		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Amperayani_Portfolio&hide_border=true&theme=dark">
 	</a>
 </p>
 
