@@ -4,8 +4,7 @@
 	Connecting Code, Collaborating Ideas – Welcome to my GitHub Universe 🦖
 </h2>
 <p align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=585&lines=Just+a+novice;Passionate+about...+Software+Development," alt="Just a novice. Still got a lot to learn." />
-	<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=585&lines=Still+got+a+lot+to+learn++&#128513!;Data+Engineering,+and+Machine+Learning." alt="Just a novice. Still got a lot to learn." />
+	<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=585&height=90&multiline=true&lines=Just+a+novice,+Still+got+a+lot+to+learn++&#128513!;Passionate+about...+Software+Development,;Data+Engineering,+and+Machine+Learning." alt="Just a novice. Still got a lot to learn." />
 </p>
 
 <!-- GitHub & LeetCode Stats -->
