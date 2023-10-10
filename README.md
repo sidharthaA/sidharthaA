@@ -7,16 +7,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=20&center=true&vCenter=true&width=585&lines=Just+a+novice,+Still+got+a+lot+to+learn++&#128513!;Passionate+about...;Software+Development,;Data+Engineering,+and+Machine+Learning." alt="Just a novice. Still got a lot to learn." />
 </p>
 
-<!-- GitHub Stats -->
+<!-- GitHub & LeetCode Stats -->
 <p align="center">
-	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Github+Stats">
+	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=380&lines=GitHub+and+LeetCode+Stats">
 </p>
 <p align="center">
 	<img width="350em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)">
 </p>
 <p align="center">
-	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
-	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaA&include_all_commits=true&hide_border=true&theme=dark"/>
+	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&animation=true" />
+	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaA&include_all_commits=true&hide_border=true&theme=dark&animation=true"/>
 </p>
 
 <!-- Language metrics 
@@ -29,13 +29,13 @@
 	<a href="https://profile.codersrank.io/user/sidharthaA#Tech%20Skills">
 		<img width="400em" src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=sidharthaA&padding=15&labels=true&legend=true&tooltip=true&max-labels=36&branding=false&skills=C,C%23,C%2B%2B,CSS,batchfileGo,HTML,Java,JavaScript,Jupyter%20Notebook,PHP,Python,Ruby,Rust,SCSS,SQL,Scala,Shell,TSQL,TypeScript,Vue&show-other-skills=true&theme=dark">
 	</a>
-</p> -->
+</p> 
 <p align="center">
 	<img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=dark&hide=">
 	<img width="225em" src="https://api.githubtrends.io/user/svg/sidharthaA/langs?time_range=one_year&loc_metric=changed&theme=dark">
-</p>
+</p> -->
 
-<!-- Contributions -->
+<!-- Contributions 
 <p align="center">
 	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=300&lines=Contributions">
 </p>
@@ -44,6 +44,11 @@
 	<a href="./profile-3d-contrib/profile-night-green.svg">
 		<img width="550em" src="./profile-3d-contrib/profile-night-green.svg">
 	</a>
+</p> -->
+
+<p align="center">
+	<img width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=dark&animation=true&hide=">
+	<img width="415em" src="https://leetcard.jacoblin.cool/amperayani?animation=true&theme=dark" />
 </p>
 
 <!-- Projects -->
