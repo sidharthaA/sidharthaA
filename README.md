@@ -47,7 +47,7 @@
 </p> -->
 
 <p align="center">
-	<img width="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=10&include_all_commits=true&hide_progress=false&theme=dark&animation=true&hide=">
+	<img width="400em" height="163" size="395" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidharthaA&layout=compact&custom_title=Most%20Used%20languages&langs_count=6&include_all_commits=true&hide_progress=false&theme=dark&animation=true&hide=">
 	<img width="415em" src="https://leetcard.jacoblin.cool/amperayani?animation=true&theme=dark" />
 </p>
 
