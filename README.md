@@ -12,7 +12,8 @@
 	<img height="45px" src="https://readme-typing-svg.herokuapp.com?font=Righteous&color=E1E1E1&size=30&center=true&vCenter=true&width=380&lines=GitHub+and+LeetCode+Stats">
 </p>
 <p align="center">
-	<img width="350em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)">
+	<img src="https://komarev.com/ghpvc/?username=sidharthaA&style=for-the-badge">
+<!-- 	<img width="350em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)"> -->
 </p>
 <p align="center">
 	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&animation=true" />
@@ -192,18 +193,18 @@
 <br><br><br>
 <!-- Socials --> 
 <div align="center">
-<a href="https://www.linkedin.com/in/amperayani/" target="blank" title="LinkedIn">
-<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 3rem"/>
-</a>
-<a href="https://amperayani.medium.com/" target="blank" title="Medium">
-<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" style="height: 3rem; background-color:black"/>
-</a>
-<a href="mailto:ga5310@g.rit.edu" target="blank" title="GMail">
-<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 3rem"/>
-</a>
-<a href="https://sidharthaa.github.io/Amperayani_Portfolio/" target="blank" title="Portfolio">
-<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" style="height: 3rem"/>
-</a>
+	<a href="https://www.linkedin.com/in/amperayani/" target="blank" title="LinkedIn">
+		<img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" style="height: 2rem"/>
+	</a>
+	<a href="https://amperayani.medium.com/" target="blank" title="Medium">
+		<img src="https://cdn4.iconfinder.com/data/icons/black-white-social-media/32/social_media_logo_medium-512.png" style="height: 2rem; background-color:black"/>
+	</a>
+	<a href="mailto:ga5310@g.rit.edu" target="blank" title="GMail">
+		<img src="https://cdn.icon-icons.com/icons2/730/PNG/512/gmail_icon-icons.com_62758.png" style="height: 2rem"/>
+	</a>
+	<a href="https://sidharthaa.github.io/Amperayani_Portfolio/" target="blank" title="Portfolio">
+		<img src="https://cdn2.iconfinder.com/data/icons/top-search/128/_web_Internet_network_www_communication_global_worldwide-512.png" style="height: 2rem"/>
+	</a>
 
 </div>
 
