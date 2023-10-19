@@ -16,7 +16,7 @@
 <!-- 	<img width="350em" src="https://komarev.com/ghpvc/?username=sidharthaA&color=orange&style=plastic&label=Views+of+all+repositories+(updated+daily)"> -->
 </p>
 <p align="center">
-	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&animation=true" />
+	<img width="400em" src="https://github-readme-stats.vercel.app/api?username=sidharthaA&show_icons=true&include_all_commits=false&count_private=true&hide_border=true&theme=dark&animation=true" />
 	<img width="425em" src="https://github-readme-streak-stats.herokuapp.com/?user=sidharthaA&include_all_commits=true&hide_border=true&theme=dark&animation=true"/>
 </p>
 
@@ -71,8 +71,8 @@
 	<a href="https://github.com/sidharthaA/Working-with-SOAP-and-RESTful">
 		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Working-with-SOAP-and-RESTful&hide_border=true&theme=dark">
 	</a>
-	<a href="https://github.com/sidharthaA/Web-APIs-Query-System">
-		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=Web-APIs-Query-System&hide_border=true&theme=dark">
+	<a href="https://github.com/sidharthaA/e-commerce-store">
+		<img width="400em" src="https://github-readme-stats.vercel.app/api/pin/?username=sidharthaA&repo=e-commerce-store&hide_border=true&theme=dark">
 	</a>
 </p>
 
